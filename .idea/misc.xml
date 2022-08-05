@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/leoba/AndroidStudioProjects/TextRecognizer/DemoRequestWebApi/app/src/main/res/drawable/ic_baseline_emergency_black.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/leoba/AndroidStudioProjects/TextRecognizer/DemoRequestWebApi/app/src/main/res/layout-land/fragment_detail.xml" value="0.1865079365079365" />
+        <entry key="..\:/Users/leoba/AndroidStudioProjects/TextRecognizer/DemoRequestWebApi/app/src/main/res/layout/activity_main.xml" value="0.2203125" />
+        <entry key="..\:/Users/leoba/AndroidStudioProjects/TextRecognizer/DemoRequestWebApi/app/src/main/res/layout/fragment_detail.xml" value="0.2203125" />
+        <entry key="..\:/Users/leoba/AndroidStudioProjects/TextRecognizer/DemoRequestWebApi/app/src/main/res/layout/fragment_list.xml" value="0.2203125" />
+        <entry key="..\:/Users/leoba/AndroidStudioProjects/TextRecognizer/DemoRequestWebApi/app/src/main/res/layout/item_notebook.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
